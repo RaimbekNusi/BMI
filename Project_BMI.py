@@ -1,5 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
-"Question 4"
 print("To calculate your body mass index please...")
 weight = float(input("Enter your weight: "))
 height = float(input("Enter your height: "))
