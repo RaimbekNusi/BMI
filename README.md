@@ -17,3 +17,10 @@ blue text came from data returned by the bmi function.
 
 ![image](https://user-images.githubusercontent.com/86201781/128757132-9b8736ed-5733-4cd5-8e6f-add763f4592a.png)
 
+## How to use
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Projec_BMI.py;
+- The program will open a command console which will ask you to input the weight and the height.
